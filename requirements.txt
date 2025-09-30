@@ -1,0 +1,16 @@
+# Requirements for Improved Face Recognition System
+# Install these packages using: pip install -r requirements.txt
+
+face-recognition>=1.3.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+Pillow>=8.0.0
+deepface>=0.0.75
+tensorflow>=2.6.0
+dlib>=19.22.0
+pandas>=1.3.0
+tkinter  # Usually comes with Python
+
+# Optional but recommended for better performance:
+scikit-learn>=1.0.0
+matplotlib>=3.3.0
